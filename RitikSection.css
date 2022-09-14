@@ -1,0 +1,33 @@
+
+.ritik-container{
+    background: url("https://images.pexels.com/photos/46195/budapest-bridge-water-chain-bridge-46195.jpeg?cs=srgb&dl=pexels-pixabay-46195.jpg&fm=jpg") center center/cover no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    box-shadow: inset 0 0 0 100px rgba(0,0,0,0.2);
+    object-fit: contain;
+ 
+  
+    
+ 
+
+}
+
+.main-text{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 320px;
+    font-family: 'Roboto',sans-serif;
+    letter-spacing: 0.1em;
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .main-text-two{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Roboto',sans-serif;
+    letter-spacing: 0.1em;
+    font-size: 25px;
+    font-weight: 300;
+  }
